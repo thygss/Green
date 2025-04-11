@@ -1,4 +1,4 @@
-# 🚀 Desafio Técnico Backend - Green Acesso
+# 🚀 Desafio Técnico Backend - Green
 
 API desenvolvida como parte do desafio técnico da Green. A aplicação permite importar boletos via CSV, consultar com filtros e gerar relatórios em PDF via base64.
 
